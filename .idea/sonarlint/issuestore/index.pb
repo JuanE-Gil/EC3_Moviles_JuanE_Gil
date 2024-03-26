@@ -1,0 +1,21 @@
+
+i
+9app/src/main/java/com/juane/ec3_juane_gil/MainActivity.kt,2\3\239ee57790e6504cdcffbc5425cc053b356f4e25
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+k
+;app/src/main/java/com/juane/ec3_juane_gil/model/Producto.kt,3\c\3cfd0d7713c62c7a24d7756b3509fc57d1d9a83c
+r
+Bapp/src/main/java/com/juane/ec3_juane_gil/configuration/AppData.kt,a\d\ad94b62df517d20c45bc6b8495e5958f5a1159e0
+o
+?app/src/main/java/com/juane/ec3_juane_gil/configuration/Data.kt,d\2\d287a59094e4ebaf8aaa408c3c4cfb50318647c9
+j
+:app/src/main/java/com/juane/ec3_juane_gil/dao/IProducto.kt,2\7\278e6ed6fd5915575b68647e2b3f277613a7d665
+s
+Capp/src/main/java/com/juane/ec3_juane_gil/viewModel/ViewProducto.kt,9\a\9aa76868d8c5edbed9b24e6b3e1dc1ec6ef038f8
+s
+Capp/src/main/java/com/juane/ec3_juane_gil/ui/FrmProductoActivity.kt,1\5\1537cf768830947a1919d987924f4362723a9a96
+u
+Eapp/src/main/java/com/juane/ec3_juane_gil/adapters/AdapterProducto.kt,2\6\269b2bb3c1f1d76283b3f16913e2f5673d97bf37
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
